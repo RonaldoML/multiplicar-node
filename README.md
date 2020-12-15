@@ -1,0 +1,1 @@
+## Multiplicar por consola de node
